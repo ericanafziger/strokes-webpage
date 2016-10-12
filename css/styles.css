@@ -1,0 +1,12 @@
+.sidebar {
+  float:right;
+  height: 400px;
+  background-color:lightgrey;
+  padding: 10px;
+
+}
+img {
+    float:left;
+    width:400px;
+    margin-right: 10px;
+}
